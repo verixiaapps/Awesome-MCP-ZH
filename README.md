@@ -765,7 +765,7 @@ MCP 客户端是 AI 的“操作台”，以下是几个热门选择：
 
 ---
 - [SpendShield](https://github.com/felixpg13-glitch/spendshield) - AI Agent 支付授权层(policy control plane): ALLOW/APPROVAL/DENY 三态决策 + 理由码, 策略生命周期, 防篡改审计链; 内置 MCP server(pip install spendshield)
-- [HostDeFi](https://hostdefi.com/api/v1/mcp) - Hosted Streamable HTTP MCP server: free `scan_token` tool returns A+–F token-safety grades across Solana and 8 EVM chains; paid tools settle per call in USDC via x402.
+- [HostDeFi](https://hostdefi.com/api/v1/mcp) - Hosted Streamable HTTP MCP server: free `scan_token` tool returns A+–F token-safety grades across Solana and 7 EVM chains; paid tools settle per call in USDC via x402.
 
 ### 📁 文件系统与存储
 
